@@ -18,7 +18,7 @@
 </div>
   
 <div>
-  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="180" height="10"/>
+  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="175" height="10"/>
   <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="65" height="0"/>- Desenvolvedor Full Stack | Entusiasta de tecnologia -
 </div>
   
