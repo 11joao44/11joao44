@@ -18,7 +18,7 @@
 </div>
   
 <div>
-  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="175" height="10"/>
+  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="185" height="10"/>
   <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="65" height="0"/>Desenvolvedor Full Stack | Entusiasta de tecnologia
 </div>
   
@@ -27,7 +27,7 @@
 <div>
   <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="225" height="10"/>Linguagens e Tecnologias | Languages and Technologies
 </div>
-  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="65" height="10"/>
+  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="50" height="10"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);" />
   <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="15" height="10"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);" />
