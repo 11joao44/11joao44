@@ -1,7 +1,8 @@
 <div>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/rectangle.png" width="1000" height="50"/>
 <div>
-  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="155" height="10"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/cat-profile.png" width="50" height="50">
+  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="160" height="10"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/j.png"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/o.png"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/a.png"/>
@@ -17,7 +18,6 @@
 <div><img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="65" height="0"/>Desenvolvedor Full Stack | Entusiasta de tecnologia</div>
 <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="1000" height="50"/>
 
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/cat-profile.png" width="50" height="50">
 <div>Tecnologias e Linguagens | Technologies and Languages</div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);" />
