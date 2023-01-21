@@ -18,7 +18,7 @@
 </div>
   
   <div>
-  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="50" height="10"/>
+  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="15" height="10"/>
     <img src="https://img.icons8.com/ios-filled/30/ffffff/d-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/ffffff/s-key.png"/>
