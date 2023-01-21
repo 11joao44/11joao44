@@ -1,7 +1,7 @@
 <div>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/rectangle.png" width="1000" height="50"/>
 <div>
-  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="225" height="10"/>
+  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="155" height="10"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/j.png"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/o.png"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/a.png"/>
