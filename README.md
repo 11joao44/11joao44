@@ -12,7 +12,7 @@
   <img src="https://img.icons8.com/ios-filled/50/ffffff/d.png"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/r.png"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/o.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="300" height="10"/>
+  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="150" height="10"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/cat-profile.png" width="50" height="50">
 </div style>
 <div><img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="65" height="0"/>Desenvolvedor Full Stack | Entusiasta de tecnologia</div>
