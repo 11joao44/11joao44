@@ -31,6 +31,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);"  />
+          
+          
           
           
           
