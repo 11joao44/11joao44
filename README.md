@@ -1,21 +1,6 @@
 <div>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/rectangle.png" width="1000" height="50"/>
 <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="1000" height="5"/>
-  
-<div>
-  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="160" height="10"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/j.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/o.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/a.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/o.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="15" height="10"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/p.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/e.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/d.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/r.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/o.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="150" height="10"/>
-</div>
    <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="15" height="10"/>
 <div>
     <img src="https://img.icons8.com/ios-filled/20/0d1117/minus-key.png"/>
