@@ -1,6 +1,6 @@
 <div style="background: linear-gradient(to right, #ff5f6d, #ffc371); padding: 10px;">
 
-# João Pedro <img src="https://img.icons8.com/ios-filled/50/000000/cat-profile.png" width="50" height="50">
+# João Pedro <img src="https://img.icons8.com/ios-filled/50/ffffff/cat-profile.png" width="50" height="50">
 Desenvolvedor Full Stack | Entusiasta de tecnologia
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);" />
