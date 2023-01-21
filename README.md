@@ -73,7 +73,7 @@
   <img src="https://img.icons8.com/ios-filled/30/ffffff/solidus-key.png"/>
   <img src="https://img.icons8.com/ios-filled/30/ffffff/right-angle-parentheses-key.png"/>
 </div>
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/rectangle.png" width="1000" height="50"/>
+ 
 <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="1000" height="50"/>
 
 <div>
