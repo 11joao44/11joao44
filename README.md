@@ -115,8 +115,12 @@ Algumas coisas que posso desenvolver incluem:
 Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o processo de deploy e implementação de aplicações web, garantindo alta disponibilidade e escalabilidade.
 
 ## Projetos
-- [Projeto Lading Page][https://github.com/se](https://exercicio-boostrap.vercel.app) - Uma Landing Page contruida em Bootstrap basico
-- [Projeto Lading Page](https://exercicio-bootstrap-3.vercel.app/#fale-conosco) - Uma Lading Page construida em Boostrap Avançado
+- [Projeto Loja Online] (https://site-gameshop-games.vercel.app) - Web Site simple feito apenas com HTML e CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);" />
+  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="15" height="10"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);" />
+  
+- [Projeto Lading Page](https://exercicio-boostrap.vercel.app) - Uma Landing Page contruida em Bootstrap basico <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="2 0" height="20" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);" />
+- [Projeto Lading Page](https://exercicio-bootstrap-3.vercel.app/#fale-conosco) - Uma Lading Page construida em Boostrap Avançado <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" height="20" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);" />
 
 </div>
 
