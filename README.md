@@ -3,11 +3,6 @@
 <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="1000" height="5"/>
   
 <div>
-  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="175" height="10"/>
-  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="65" height="0"/>- Desenvolvedor Full Stack | Entusiasta de tecnologia -
-</div>
-  
-<div>
   <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="160" height="10"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/j.png"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/o.png"/>
@@ -20,6 +15,34 @@
   <img src="https://img.icons8.com/ios-filled/50/ffffff/r.png"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/o.png"/>
   <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="150" height="10"/>
+</div>
+  
+  <div>
+  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="130" height="10"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/d-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/s-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/n-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/v-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/o-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/l-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/v-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/d-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/o-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/r-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="15" height="10"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/f-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/u-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/l-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/l-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/s-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/t-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/a-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/c-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/k-key.png"/>
 </div>
   
 <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="1000" height="50"/>
