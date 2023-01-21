@@ -18,6 +18,12 @@
 </div>
    <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="15" height="10"/>
 <div>
+    <img src="https://img.icons8.com/ios-filled/20/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/ffffff/d-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/ffffff/s-key.png"/>
@@ -31,12 +37,20 @@
     <img src="https://img.icons8.com/ios-filled/30/ffffff/d-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/ffffff/o-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/ffffff/r-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="15" height="10"/>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/ios-filled/20/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/ffffff/f-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/ffffff/u-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/ffffff/l-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/ffffff/l-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/minus-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/ffffff/s-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/ffffff/t-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/ffffff/a-key.png"/>
