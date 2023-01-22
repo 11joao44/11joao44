@@ -132,7 +132,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
     <th>Badges</th>
   </tr>
   <tr>
-    <td><a href="https://site-gameshop-games.vercel.app">Projeto</a></td>
+    <td><a href="https://site-gameshop-games.vercel.app">Projeto Loja </a></td>
     <td>Um Web site de uma loja fisica que vendes jogos para consoles, com design simple ultilizando apenas HTML e CSS.</td>
     <td>
       <div>
@@ -175,18 +175,18 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
     <th>Badges</th>
   </tr>
   <tr>
-    <td><a href="https://tarefa-agenda-de-contatos.vercel.app">Projeto</a></td>
+    <td><a href="https://tarefa-agenda-de-contatos.vercel.app">Projeto Agenda</a></td>
     <td style="width: 50px;">Um site que simula uma agenda de contatos telefônica, com design simple e elaborado ultilizando apenas HTML,CSS e JS.</td>
     <td>
       <div>
           <img src="https://img.shields.io/badge/status-Finalizado-green" alt="Finalizado">
+          <img src="https://img.shields.io/badge/Stack-Front%20End-blueviolet" alt="Front-end">
           <img src="https://img.shields.io/badge/Project-AgendaContatos-blue?" alt="GameStore Website">
           <img src="https://img.shields.io/badge/Site-Online-brightgreen" alt="Online">
           <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20">
-          <img src="https://img.shields.io/badge/Stack-Front%20End-blueviolet" alt="Front-end">
       </div>
     </td>
   </tr>
