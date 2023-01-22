@@ -2,6 +2,9 @@
   <img src="https://img.icons8.com/ios-filled/50/ffffff/rectangle.png" width="1000" height="50"/>
 <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="1000" height="5"/>
   <img src="https://blog.bsource.com.br/assets/img/Tutorial.gif" width="200" height="200">
+  <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="200" height="200">
+  <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="200" height="200">
+  <img src="https://media.tenor.com/urnViL5vSGIAAAAj/construccion-live.gif" width="200" height="200">
 <div>
     <img src="https://img.icons8.com/ios-filled/20/0d1117/minus-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
