@@ -132,7 +132,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
     <th>Badges</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/seu-usuario/projeto-1">Projeto 1</a></td>
+    <td><a href="https://site-gameshop-games.vercel.app">Projeto Loja Online </a></td>
     <td>Uma breve descrição do projeto</td>
     <td>
       <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" alt="Em desenvolvimento">
