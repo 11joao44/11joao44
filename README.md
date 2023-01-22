@@ -132,7 +132,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
     <th>Badges</th>
   </tr>
   <tr>
-    <td><a href="https://site-gameshop-games.vercel.app">Projeto Loja Online</a></td>
+    <td><a href="https://site-gameshop-games.vercel.app">Projeto</a></td>
     <td>Um Web site de uma loja fisica que vendes jogos para consoles, com design simple ultilizando apenas HTML e CSS.</td>
     <td>
       <div>
@@ -153,7 +153,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
     <th>Badges</th>
   </tr>
   <tr>
-    <td><a href="https://projeto-calculadora-medias-pi.vercel.app">Projeto Calculadora de média</a></td>
+    <td><a href="https://projeto-calculadora-medias-pi.vercel.app">Projeto</a></td>
     <td>Um site para preencher materias e notas que calcula a média geral da nota do aluno, com design muito simple e funcional ultilizando apenas HTML,CSS e JavaScritp.</td>
     <td>
       <div>
@@ -175,7 +175,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
     <th>Badges</th>
   </tr>
   <tr>
-    <td><a href="https://tarefa-agenda-de-contatos.vercel.app">Projeto Agenda de contatos</a></td>
+    <td><a href="https://tarefa-agenda-de-contatos.vercel.app">Projeto</a></td>
     <td>Um site que simula uma agenda de contatos telefônica, com design simple e elaborado ultilizando apenas HTML,CSS e JS.</td>
     <td>
       <div>
@@ -196,7 +196,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
     <th>Badges</th>
   </tr>
   <tr>
-    <td><a href="https://site-gameshop-games.vercel.app">Projeto Transferencia Pix</a></td>
+    <td><a href="https://site-gameshop-games.vercel.app">Projeto </a></td>
     <td>Um Web site de uma loja fisica que vendes jogos para consoles, com design simple ultilizando apenas HTML e CSS.</td>
     <td>
       <div>
