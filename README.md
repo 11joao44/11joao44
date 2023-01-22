@@ -132,19 +132,140 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
     <th>Badges</th>
   </tr>
   <tr>
-    <td><a href="https://site-gameshop-games.vercel.app">Projeto Loja Online </a></td>
-    <td>Uma breve descrição do projeto</td>
+    <td><a href="https://site-gameshop-games.vercel.app">Projeto Loja Online</a></td>
+    <td>Um Web site de uma loja fisica que vendes jogos para consoles, com design simple ultilizando apenas HTML e CSS.</td>
     <td>
-      <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" alt="Em desenvolvimento">
-      <img src="https://img.shields.io/github/stars/seu-usuario/projeto-1?style=social" alt="Stars">
+      <div>
+          <img src="https://img.shields.io/badge/status-Finalizado-green" alt="Finalizado">
+          <img src="https://img.shields.io/badge/Project-GameStore-blue?" alt="GameStore Website">
+          <img src="https://img.shields.io/badge/Stack-Front%20End-blueviolet" alt="Front-end">
+          <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20">
+          <img src="https://img.shields.io/badge/Site%20ativo-🚀-brightgreen" alt="status">
+      </div>
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/seu-usuario/projeto-2">Projeto 2</a></td>
-    <td>Uma breve descrição do projeto</td>
+    <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Badges</th>
+  </tr>
+  <tr>
+    <td><a href="https://projeto-calculadora-medias-pi.vercel.app">Projeto Calculadora de média</a></td>
+    <td>Um site para preencher materias e notas que calcula a média geral da nota do aluno, com design muito simple e funcional ultilizando apenas HTML,CSS e JavaScritp.</td>
     <td>
-      <img src="https://img.shields.io/badge/status-concluído-green" alt="Concluído">
-      <img src="https://img.shields.io/github/forks/seu-usuario/projeto-2?style=social" alt="Forks">
+      <div>
+          <img src="https://img.shields.io/badge/status-Finalizado-green" alt="Finalizado">
+          <img src="https://img.shields.io/badge/Project-CalculaMédia-blue?" alt="Calcular Website">
+          <img src="https://img.shields.io/badge/Stack-Front%20End-blueviolet" alt="Front-end">
+          <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20">
+          <img src="https://img.shields.io/badge/Site%20ativo-🚀-brightgreen" alt="status">
+      </div>
+    </td>
+  </tr>
+  <tr>
+      <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Badges</th>
+  </tr>
+  <tr>
+    <td><a href="https://tarefa-agenda-de-contatos.vercel.app">Projeto Agenda de contatos</a></td>
+    <td>Um site que simula uma agenda de contatos telefônica, com design simple e elaborado ultilizando apenas HTML,CSS e JS.</td>
+    <td>
+      <div>
+          <img src="https://img.shields.io/badge/status-Finalizado-green" alt="Finalizado">
+          <img src="https://img.shields.io/badge/Project-AgendaContatos-blue?" alt="GameStore Website">
+          <img src="https://img.shields.io/badge/Stack-Front%20End-blueviolet" alt="Front-end">
+          <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20">
+          <img src="https://img.shields.io/badge/Site%20ativo-🚀-brightgreen" alt="status">
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Badges</th>
+  </tr>
+  <tr>
+    <td><a href="https://site-gameshop-games.vercel.app">Projeto Transferencia Pix</a></td>
+    <td>Um Web site de uma loja fisica que vendes jogos para consoles, com design simple ultilizando apenas HTML e CSS.</td>
+    <td>
+      <div>
+          <img src="https://img.shields.io/badge/status-Finalizado-green" alt="Finalizado">
+          <img src="https://img.shields.io/badge/Project-GameStore-blue?" alt="GameStore Website">
+          <img src="https://img.shields.io/badge/Stack-Front%20End-blueviolet" alt="Front-end">
+          <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20">
+          <img src="https://img.shields.io/badge/Site%20ativo-🚀-brightgreen" alt="status">
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Badges</th>
+  </tr>
+  <tr>
+    <td><a href="https://site-gameshop-games.vercel.app">Projeto Lista de Tarefa</a></td>
+    <td>Um Web site de uma loja fisica que vendes jogos para consoles, com design simple ultilizando apenas HTML e CSS.</td>
+    <td>
+      <div>
+          <img src="https://img.shields.io/badge/status-Finalizado-green" alt="Finalizado">
+          <img src="https://img.shields.io/badge/Project-GameStore-blue?" alt="GameStore Website">
+          <img src="https://img.shields.io/badge/Stack-Front%20End-blueviolet" alt="Front-end">
+          <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20">
+          <img src="https://img.shields.io/badge/Site%20ativo-🚀-brightgreen" alt="status">
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Badges</th>
+  </tr>
+  <tr>
+    <td><a href="https://site-gameshop-games.vercel.app">Projeto Lading Page</a></td>
+    <td>Um Web site de uma loja fisica que vendes jogos para consoles, com design simple ultilizando apenas HTML e CSS.</td>
+    <td>
+      <div>
+          <img src="https://img.shields.io/badge/status-Semi%20finalizado-yellow" alt="semi-finalizado">
+          <img src="https://img.shields.io/badge/Project-GameStore-blue?" alt="GameStore Website">
+          <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20">
+          <img src="https://img.shields.io/badge/Site%20ativo-🚀-brightgreen" alt="status">
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Badges</th>
+  </tr>
+  <tr>
+    <td><a href="https://site-gameshop-games.vercel.app">Projeto Lading Page 2</a></td>
+    <td>Um Web site de uma loja fisica que vendes jogos para consoles, com design simple ultilizando apenas HTML e CSS.</td>
+    <td>
+      <div>
+          <img src="https://img.shields.io/badge/status-Semi%20finalizado-yellow" alt="semi-finalizado">
+          <img src="https://img.shields.io/badge/Project-GameStore-blue?" alt="GameStore Website">
+          <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20">
+          <img src="https://img.shields.io/badge/Site%20ativo-🚀-brightgreen" alt="status">
+      </div>
     </td>
   </tr>
 </table>
