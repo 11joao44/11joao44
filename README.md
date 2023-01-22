@@ -1,7 +1,7 @@
 <div>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/rectangle.png" width="1000" height="50"/>
 <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="1000" height="5"/>
-   <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="15" height="10"/>
+  <img src="https://blog.bsource.com.br/assets/img/Tutorial.gif" width="200" height="200">
 <div>
     <img src="https://img.icons8.com/ios-filled/20/0d1117/minus-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
@@ -123,8 +123,6 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
 - [Projeto Lading Page](https://exercicio-boostrap.vercel.app) -  Uma Lading Page de um loja de midia digital
 - [Projeto Lading Page](https://exercicio-bootstrap-3.vercel.app/#fale-conosco) - Uma Lading Page de um loja de midia digital
 
-</div>
-
 <table>
   <tr>
     <th>Projeto</th>
@@ -132,7 +130,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
     <th>Badges</th>
   </tr>
   <tr>
-    <td><a href="https://site-gameshop-games.vercel.app">GameStore</a></td>
+   <td style="align-items: center;"><a href="https://site-gameshop-games.vercel.app">GameStore</a></td>
     <td>Um Web site de uma loja fisica que vendes jogos para consoles, com design simple ultilizando apenas HTML e CSS.</td>
     <td>
       <div>
