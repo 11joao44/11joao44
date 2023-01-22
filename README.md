@@ -138,7 +138,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
       <div>
           <img src="https://img.shields.io/badge/status-Finalizado-green" alt="Finalizado">
           <img src="https://img.shields.io/badge/Project-GameStore-blue?" alt="GameStore Website">
-          <img src="https://img.shields.io/badge/Site%20ativo-🚀-brightgreen" alt="status">
+          <img src="https://img.shields.io/badge/Site%20on-🚀-brightgreen" alt="status">
           <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20">
@@ -159,7 +159,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
       <div>
           <img src="https://img.shields.io/badge/status-Finalizado-green" alt="Finalizado">
           <img src="https://img.shields.io/badge/Project-CalculaMédia-blue?" alt="Calcular Website">
-           <img src="https://img.shields.io/badge/Web%20ativo-🚀-brightgreen" alt="status">
+           <img src="https://img.shields.io/badge/Web%20on-🚀-brightgreen" alt="status">
           <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20">
@@ -181,7 +181,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
       <div>
           <img src="https://img.shields.io/badge/status-Finalizado-green" alt="Finalizado">
           <img src="https://img.shields.io/badge/Project-AgendaContatos-blue?" alt="GameStore Website">
-          <img src="https://img.shields.io/badge/Web%20ativo-🚀-brightgreen" alt="status">
+          <img src="https://img.shields.io/badge/Web%20on-🚀-brightgreen" alt="status">
           <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20">
