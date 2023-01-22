@@ -245,7 +245,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
       <div>
           <img src="https://img.shields.io/badge/status-Finalizado-green" alt="Finalizado">
           <img src="https://img.shields.io/badge/Stack-Front%20End-blueviolet" alt="Front-end">
-          <img src="https://img.shields.io/badge/Project-Lading%20Page%20GameStore-blue?" alt="Lading Page">
+          <img src="https://img.shields.io/badge/Project-Lading%20Page-blue?" alt="Lading Page">
           <img src="https://img.shields.io/badge/Site-Online-brightgreen" alt="Online">
           <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
@@ -266,7 +266,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
       <div>
           <img src="https://img.shields.io/badge/status-Finalizado-green" alt="Finalizado">
           <img src="https://img.shields.io/badge/Stack-Front%20End-blueviolet" alt="Front-end">
-          <img src="https://img.shields.io/badge/Project-Lading%20Page%20GameStore-blue?" alt="Lading Page">
+          <img src="https://img.shields.io/badge/Project-Lading%20Page-blue?" alt="Lading Page">
           <img src="https://img.shields.io/badge/Site-Online-brightgreen" alt="Online">
           <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
