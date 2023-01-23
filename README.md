@@ -126,6 +126,12 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
 - [Projeto Lading Page](https://exercicio-boostrap.vercel.app) -  Uma Lading Page de um loja de midia digital
 - [Projeto Lading Page](https://exercicio-bootstrap-3.vercel.app/#fale-conosco) - Uma Lading Page de um loja de midia digital
 
+  <div style="display: flex; flex-wrap: wrap;">
+  <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="400" height="200">
+  <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="400" height="200">
+  </div>
+
+  
 <table>
   <tr>
     <th>Projeto</th>
