@@ -1,6 +1,6 @@
 <div>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/rectangle.png" width="1000" height="50"/>
-<img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="1000" height="5"/>
+  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="1000" height="5"/>
   <img src="https://blog.bsource.com.br/assets/img/Tutorial.gif" width="200" height="200">
   <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="200" height="200">
   <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="200" height="200">
@@ -126,7 +126,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
 - [Projeto Lading Page](https://exercicio-boostrap.vercel.app) -  Uma Lading Page de um loja de midia digital
 - [Projeto Lading Page](https://exercicio-bootstrap-3.vercel.app/#fale-conosco) - Uma Lading Page de um loja de midia digital
   
-    <div style="text-align: center;">
+  <div style="text-align: center;">
   <h1>Meus Projetos</h1>
   <div style="display: flex;">
     <div style="width: 30%;">
@@ -155,6 +155,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
   </div>
 </div>
 
+<img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="1000" height="5"/>
   
 <table>
   <tr>
