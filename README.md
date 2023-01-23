@@ -117,7 +117,7 @@ Algumas coisas que posso desenvolver incluem:
 
 Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o processo de deploy e implementação de aplicações web, garantindo alta disponibilidade e escalabilidade.
 
-## Projetos
+## Lsta de projetos
 - [Projeto GameStore](https://site-gameshop-games.vercel.app) - Web Site simple feito apenas com HTML e CSS
 - [Projeto Calculadora de média](https://projeto-calculadora-medias-pi.vercel.app) - Uma calculadora de média
 - [Projeto Agenda de contatos](https://tarefa-agenda-de-contatos.vercel.app) - Uma Agenda de contatos funcional
@@ -125,11 +125,35 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
 - [Projeto Lista de Tarefa](https://lista-de-tarefas-nine.vercel.app) - Uma Lista de tarefa  
 - [Projeto Lading Page](https://exercicio-boostrap.vercel.app) -  Uma Lading Page de um loja de midia digital
 - [Projeto Lading Page](https://exercicio-bootstrap-3.vercel.app/#fale-conosco) - Uma Lading Page de um loja de midia digital
-
-  <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="400" height="200">
-  <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="400" height="200">
+  
+    <div style="text-align: center;">
+  <h1>Meus Projetos</h1>
+  <div style="display: flex;">
+    <div style="width: 30%;">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <p style="font-size: 18px;">Projeto 1</p>
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <p style="font-size: 18px;">Projeto 2</p>
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <p style="font-size: 18px;">Projeto 3</p>
+    </div>
   </div>
+</div>
 
   
 <table>
