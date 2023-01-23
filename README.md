@@ -5,6 +5,27 @@
   <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="200" height="200">
   <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="200" height="200">
   <img src="https://media.tenor.com/urnViL5vSGIAAAAj/construccion-live.gif" width="200" height="200">
+    <div>
+    <img src="https://img.icons8.com/ios-filled/20/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/d-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/s-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/n-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/v-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/o-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/l-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/v-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/d-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/o-key.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/r-key.png"/>
+</div>
   <div>
     <img src="https://img.icons8.com/ios-filled/20/0d1117/minus-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
