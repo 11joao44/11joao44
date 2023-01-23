@@ -6,6 +6,7 @@
   <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="200" height="200">
   <img src="https://media.tenor.com/urnViL5vSGIAAAAj/construccion-live.gif" width="200" height="200">
 <div>
+
     <img src="https://img.icons8.com/ios-filled/20/0d1117/minus-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
     <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
@@ -130,27 +131,48 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
   <h1>Meus Projetos</h1>
   <div style="display: flex;">
     <div style="width: 30%;">
-      <p style="font-size: 18px;">Projeto 1</p>
+      <p style="font-size: 18px;">Projeto GameStore</p>
       <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
-      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <img src="https://user-images.githubusercontent.com/113033970/214025707-dec9e50a-e168-4084-9a57-7da51e5d6879.png" alt="Imagem 1" width="200" height="100">
       <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
-      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <img src="https://user-images.githubusercontent.com/113033970/214025928-07524877-7771-4787-be60-f3e3efe82278.png" alt="Imagem 1" width="200" height="100">
       <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
-      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
-      <p style="font-size: 18px;">Projeto 2</p>
+      <img src="https://user-images.githubusercontent.com/113033970/214026099-ec271a70-507c-426b-bf6a-bbeed4694207.png" alt="Imagem 1" width="200" height="100">
+      <p style="font-size: 18px;">Projeto Calculadora de média</p>
       <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
-      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <img src="https://user-images.githubusercontent.com/113033970/214026308-7536ad0b-5698-4f19-86c0-ea53a7866693.png" alt="Imagem 1" width="200" height="100">
       <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
-      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <img src="https://user-images.githubusercontent.com/113033970/214027349-a8698a62-2436-4f24-a485-09aa48bdd425.png" alt="Imagem 1" width="200" height="100">
       <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
-      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
-      <p style="font-size: 18px;">Projeto 3</p>
+      <img src="https://user-images.githubusercontent.com/113033970/214027746-b5360232-b9fd-473d-83c8-4c233a0560c9.png" alt="Imagem 1" width="200" height="100">
+      <p style="font-size: 18px;">Projeto Agenda de contatos</p>
       <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
-      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <img src="https://user-images.githubusercontent.com/113033970/214027984-92f99601-e1e5-4a14-beaa-20b97b1273a6.png" alt="Imagem 1" width="200" height="100">
       <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
-      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <img src="https://user-images.githubusercontent.com/113033970/214028863-f8eec96c-2da0-4566-a387-56db37bbbdb4.png" alt="Imagem 1" width="200" height="100">
       <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
-      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <img src="https://user-images.githubusercontent.com/113033970/214029177-b2ca26c3-340a-4853-a13d-37ad405ff788.png" alt="Imagem 1" width="200" height="100">
+      <p style="font-size: 18px;">Projeto Transferencia Pix</p>
+      <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/214029615-45e0e283-5d37-4317-acfb-a3d99fa2cf5c.png" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/214030010-8acd1689-0897-4365-81c6-87fdf6468e87.png" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/214030238-63a1bafd-cb36-4f23-a20a-c5fdad53d49b.png" alt="Imagem 1" width="200" height="100">
+      <p style="font-size: 18px;">Projeto Lista de Tarefa</p>
+      <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/214030374-f3d398b4-f687-4477-a4fe-0a953d6431ed.png" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/214030472-a481dafc-2209-46a3-821c-ff5ff6656811.png" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/214030811-1cf74313-237c-4f4c-957c-c74dcf53a4bd.png" alt="Imagem 1" width="200" height="100">
+      <p style="font-size: 18px;">Projeto Lading Page v2</p>
+      <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/214031687-3d96e01f-e093-4672-9a7a-ca36010c5ef9.png" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/214031516-e834db9e-5395-4512-8ad5-3e056dcb846a.png" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/214031400-71fafad8-db06-4587-9e91-9a92dacc9deb.png" alt="Imagem 1" width="200" height="100">
     </div>
   </div>
 </div>
