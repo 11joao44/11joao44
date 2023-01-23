@@ -130,13 +130,6 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
   <h1>Meus Projetos</h1>
   <div style="display: flex;">
     <div style="width: 30%;">
-      <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
-      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
-      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
-      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
-      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
-      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
-      <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
       <p style="font-size: 18px;">Projeto 1</p>
       <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
       <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
@@ -144,7 +137,6 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
       <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
       <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
       <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
-      <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
       <p style="font-size: 18px;">Projeto 2</p>
       <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
       <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
@@ -152,8 +144,13 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
       <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
       <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
       <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
-      <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
       <p style="font-size: 18px;">Projeto 3</p>
+      <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
+      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://imaginy.com.br/wp-content/uploads/2020/07/como-uma-landing-page-pode-ajudar-a-sua-empresa.webp" alt="Imagem 1" width="200" height="100">
     </div>
   </div>
 </div>
