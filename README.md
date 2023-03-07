@@ -196,11 +196,104 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
 <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="1000" height="5"/>
   
 <table>
+    <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Badges</th>
+  </tr>
+  <tr>
+    <td><a href="https://ebac-tech-talks-one.vercel.app">Projeto Tech Talks</a></td>
+    <td>Uma landing page de um evento com um timer de contagem regressiva até a data do evento, contendo animação de scroll na pagina ultilizando HTML, SASS, Parcel e JavaScript e ultilização BEM (Block Element Modifier) metodologias para escrever CSS de forma organizada e escalável.</td>
+    <td>
+      <div>
+          <img src="https://img.shields.io/badge/status-Finalizado-green" alt="Finalizado">
+          <img src="https://img.shields.io/badge/Stack-Front%20End-blueviolet" alt="Front-end">
+          <img src="https://img.shields.io/badge/Project-Tech20%Talks-blue?" alt="Tech Talks">
+          <img src="https://img.shields.io/badge/Site-Online-brightgreen" alt="Online">
+          <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20">
+      </div>
+    </td>
+  </tr>
+    
+    
+    <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Badges</th>
+  </tr>
+  <tr>
+    <td><a href="https://landing-page-film.vercel.app">Projeto Landing Page filme</a></td>
+    <td>Uma landing page de um filme, com um ótimo design com carroseul de imagens seção de personagens interativa e dinâmica, contendo o trailer do filme e informações extras ultilizando HTML, SASS, Gulp e JavaScript e ultilização BEM (Block Element Modifier) metodologias para escrever CSS de forma organizada e escalável.</td>
+    <td>
+      <div>
+          <img src="https://img.shields.io/badge/status-Finalizado-green" alt="Finalizado">
+          <img src="https://img.shields.io/badge/Stack-Front%20End-blueviolet" alt="Front-end">
+          <img src="https://img.shields.io/badge/Project-Lading%20Page-blue?" alt="Landing Page Filme">
+          <img src="https://img.shields.io/badge/Site-Online-brightgreen" alt="Online">
+          <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="20" height="20">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20">
+      </div>
+    </td>
+  </tr>
+    
+   <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Badges</th>
+  </tr>
+  <tr>
+    <td><a href="https://clone-disney-plus-seven.vercel.app">Projeto Clone do site Disney+</a></td>
+    <td>Uma landing page de um serviço de streaming, com um ótimo design com seção de atrações interativa e com lista de perguntas frequentes ultilizando HTML, SASS, Gulp e JavaScript e ultilização BEM (Block Element Modifier) metodologias para escrever CSS de forma organizada e escalável..</td>
+    <td>
+      <div>
+          <img src="https://img.shields.io/badge/status-Finalizado-green" alt="Finalizado">
+          <img src="https://img.shields.io/badge/Stack-Front%20End-blueviolet" alt="Front-end">
+          <img src="https://img.shields.io/badge/Project-Disney+-blue?" alt="Disney+">
+          <img src="https://img.shields.io/badge/Site-Online-brightgreen" alt="Online">
+          <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="20" height="20">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20">
+      </div>
+    </td>
+  </tr>
+
+    
   <tr>
     <th>Projeto</th>
     <th>Descrição</th>
     <th>Badges</th>
   </tr>
+  <tr>
+    <td><a href="https://sorteador-psi.vercel.app">Projeto Sorteador</a></td>
+    <td>Um layout que apresenta um campo para ser preenchido com a quatidade de participantes do sorteio e clicando no botão o site sortea um número aleatorio que aparece logo abaixo, com design bonito ultilizando HTML, less, grunt e JavaScript.</td>
+    <td>
+      <div>
+          <img src="https://img.shields.io/badge/status-Finalizado-green" alt="Finalizado">
+          <img src="https://img.shields.io/badge/Stack-Front%20End-blueviolet" alt="Front-end">
+          <img src="https://img.shields.io/badge/Project-Sorteador-blue?" alt="Sorteador">
+          <img src="https://img.shields.io/badge/Site-Online-brightgreen" alt="Online">
+          <img src="https://img.shields.io/badge/Desenvolvido-em-blue?style=flat-square" alt="Desenvolvido com">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grunt/grunt-original.svg" width="20" height="20">
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Badges</th>
+  </tr>
+
   <tr>
    <td style="align-items: center;"><a href="https://site-gameshop-games.vercel.app">GameStore</a></td>
     <td>Um Web site de uma loja fisica que vendes jogos para consoles, com design simple ultilizando apenas HTML e CSS.</td>
