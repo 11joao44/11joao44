@@ -1,77 +1,53 @@
 <div align="center">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-    <img src="https://forthebadge.com/images/badges/built-by-developer.svg" />
 </div>
 
 <div>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/rectangle.png" width="1000" height="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="1000" height="5"/>
-  <img src="https://blog.bsource.com.br/assets/img/Tutorial.gif" width="200" height="200">
-  <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="200" height="200">
-  <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="200" height="200">
-  <img src="https://media.tenor.com/urnViL5vSGIAAAAj/construccion-live.gif" width="200" height="200">
-    <div>
-    <img src="https://img.icons8.com/ios-filled/20/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/d-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/s-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/n-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/v-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/o-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/l-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/v-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/d-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/o-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/r-key.png"/>
-</div>
-  <div>
-    <img src="https://img.icons8.com/ios-filled/20/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/f-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/u-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/l-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/l-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/s-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/t-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/a-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/c-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/k-key.png"/>
-</div>
-<div>
-   <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-   <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-   <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/20/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-    <img src="https://img.icons8.com/ios-filled/30/0d1117/minus-key.png"/>
-  <img src="https://img.icons8.com/ios-filled/30/ffffff/left-angle-parentheses-key.png"/>
-  <img src="https://img.icons8.com/ios-filled/30/ffffff/solidus-key.png"/>
-  <img src="https://img.icons8.com/ios-filled/30/ffffff/right-angle-parentheses-key.png"/>
-</div>
+    <div align="center">
+        <img src="https://blog.bsource.com.br/assets/img/Tutorial.gif" width="200" height="200">
+        <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="200" height="200">
+        <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="200" height="200">
+        <img src="https://media.tenor.com/urnViL5vSGIAAAAj/construccion-live.gif" width="200" height="200">
+    </div>
+    <div align="center">
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/d-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/s-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/n-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/v-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/o-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/l-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/v-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/d-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/o-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/r-key.png"/>
+    </div>
+    <div align="center">
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/f-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/u-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/l-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/l-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/s-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/t-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/a-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/c-key.png"/>
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/k-key.png"/>
+    </div>
+    <div align="center">
+      <img src="https://img.icons8.com/ios-filled/30/ffffff/left-angle-parentheses-key.png"/>
+      <img src="https://img.icons8.com/ios-filled/30/ffffff/solidus-key.png"/>
+      <img src="https://img.icons8.com/ios-filled/30/ffffff/right-angle-parentheses-key.png"/>
+    </div>
  
 <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="1000" height="50"/>
 
-<div>
-  <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="250" height="10"/>Linguagens e Tecnologias | Languages and Technologies
+<div align="center">
+ Linguagens e Tecnologias | Languages and Technologies
 </div>
+    
 <div><img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="65" height="0"/></div>
   <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="50" height="10"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);" />
@@ -98,9 +74,9 @@
   <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="15" height="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);"  />
   <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="15" height="10"/>
-  <img src="![Ajax Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/ajax/ajax-original.svg)
-" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);"  />
-  ![Ajax Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/ajax/ajax-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);"  />
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="15" height="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);"  />
                            
 
 ## Sobre mim
@@ -126,18 +102,51 @@ Algumas coisas que posso desenvolver incluem:
 Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o processo de deploy e implementação de aplicações web, garantindo alta disponibilidade e escalabilidade.
 
 ## Lsta de projetos
-- [Projeto GameStore](https://site-gameshop-games.vercel.app) - Web Site simple feito apenas com HTML e CSS
-- [Projeto Calculadora de média](https://projeto-calculadora-medias-pi.vercel.app) - Uma calculadora de média
-- [Projeto Agenda de contatos](https://tarefa-agenda-de-contatos.vercel.app) - Uma Agenda de contatos funcional
-- [Projeto Transferencia Pix](https://transferencia-bancaria.vercel.app) - Um layout de transferencia bancaria
-- [Projeto Lista de Tarefa](https://lista-de-tarefas-nine.vercel.app) - Uma Lista de tarefa  
-- [Projeto Lading Page](https://exercicio-boostrap.vercel.app) -  Uma Lading Page de um loja de midia digital
+- [Projeto Tech Talks](https://ebac-tech-talks-one.vercel.app) - Landing Page de um evento     
+- [Projeto Landing Page filme](https://landing-page-film.vercel.app) - Landing Page de filme
+- [Projeto Clone Disney+](https://clone-disney-plus-seven.vercel.app) - clone da Disney+ 
+- [Projeto Sorteador](https://sorteador-psi.vercel.app) - Um sorteador númerico   
 - [Projeto Lading Page](https://exercicio-bootstrap-3.vercel.app/#fale-conosco) - Uma Lading Page de um loja de midia digital
-  
+- [Projeto Lading Page](https://exercicio-boostrap.vercel.app) -  Uma Lading Page de um loja de midia digital
+- [Projeto Lista de Tarefa](https://lista-de-tarefas-nine.vercel.app) - Uma Lista de tarefa      
+- [Projeto Transferencia Pix](https://transferencia-bancaria.vercel.app) - Um layout de transferencia bancaria  
+- [Projeto Agenda de contatos](https://tarefa-agenda-de-contatos.vercel.app) - Uma Agenda de contatos funcional
+- [Projeto Calculadora de média](https://projeto-calculadora-medias-pi.vercel.app) - Uma calculadora de média
+- [Projeto GameStore](https://site-gameshop-games.vercel.app) - Web Site simple feito apenas com HTML e CSS
+
+
   <div style="text-align: center;">
   <h1>Meus Projetos</h1>
   <div style="display: flex;">
     <div style="width: 30%;">
+      <p>Projeto Tech Talks</p>
+      <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/223499087-1e16c981-0c1f-498b-bc66-5a40f65ecc3b.png" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/223499215-6a9b42ed-8454-411e-ac53-bb934c2144af.png" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/223499339-01436f8d-e056-4a09-8be6-d76ddba8c5c8.png" alt="Imagem 1" width="200" height="100">
+      <p>Projeto Landing page filme</p>
+      <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/223497441-646f2a65-e427-47d1-8aef-6fe34b7d94e8.png" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/223498413-37eb80ac-5bd4-431a-9a5c-950115dbf2cc.png" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/223498207-0821171e-2ac1-4a85-9536-1e05749463e4.png" alt="Imagem 1" width="200" height="100">
+      <p>Projeto Clone Disney+</p>
+      <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/223495803-1f0eb9a1-ce66-4e8d-957b-3a836ae07b4b.png" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/223495991-55cc5734-a545-4c18-b31a-e9d3b5853679.png" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/223496214-bd5b6fd7-aa35-469f-bab7-fb48ff651baa.png" alt="Imagem 1" width="200" height="100">
+      <p>Projeto Sorteador</p>
+      <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/223494460-0baba1a7-c5df-4656-9611-266f2a3675b1.png" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/223494720-08caf5c2-4312-4668-9133-4eb30c979f61.png" alt="Imagem 1" width="200" height="100">
+      <img src="https://img.icons8.com/ios-filled/50/0d1117/minus-key.png"/>
+      <img src="https://user-images.githubusercontent.com/113033970/223495082-f46ddf1d-2824-407c-be94-d33f1076dd1c.png" alt="Imagem 1" width="200" height="100">
       <p style="font-size: 18px;">Projeto GameStore</p>
       <img src="https://img.icons8.com/ios-filled/35/0d1117/minus-key.png"/>
       <img src="https://user-images.githubusercontent.com/113033970/214025707-dec9e50a-e168-4084-9a57-7da51e5d6879.png" alt="Imagem 1" width="200" height="100">
