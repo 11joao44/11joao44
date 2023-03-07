@@ -93,7 +93,9 @@
   <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="15" height="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);"  />
   <img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="15" height="10"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ajax/ajax-original.svg" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);"  />
+  <img src="![Ajax Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/ajax/ajax-original.svg)
+" width="40" height="40" style="margin-right: 10px; filter: drop-shadow(2px 2px 2px #222);"  />
+  ![Ajax Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/ajax/ajax-original.svg)
                            
 
 ## Sobre mim
