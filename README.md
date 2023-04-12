@@ -216,10 +216,6 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
   </tr>
     
     
-    <tr>
-    <th>Projeto</th>
-    <th>Descrição</th>
-    <th>Badges</th>
   </tr>
   <tr>
     <td><a href="https://landing-page-film.vercel.app">Projeto Landing Page filme</a></td>
