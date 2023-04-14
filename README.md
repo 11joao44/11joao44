@@ -100,7 +100,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
 
 ## Lsta de projetos
 - [Projeto Tech Talks](https://ebac-tech-talks-one.vercel.app) - Landing Page de um evento     
-- [Projeto Landing Page filme](https://landing-page-film.vercel.app) - Landing Page de filme
+- [Projeto Landing Page filme](https://landing-page-filme-l21o.vercel.app) - Landing Page de filme
 - [Projeto Clone Disney+](https://clone-disney-plus-seven.vercel.app) - clone da Disney+ 
 - [Projeto Sorteador](https://sorteador-psi.vercel.app) - Um sorteador númerico   
 - [Projeto Lading Page](https://exercicio-bootstrap-3.vercel.app/#fale-conosco) - Uma Lading Page de um loja de midia digital
@@ -218,7 +218,7 @@ Além disso, com as habilidades em DevOps, posso também ajudar em automatizar o
     
   </tr>
   <tr>
-    <td><a href="https://landing-page-film.vercel.app">Projeto Landing Page filme</a></td>
+    <td><a href="https://landing-page-filme-l21o.vercel.app">Projeto Landing Page filme</a></td>
     <td>Uma landing page de um filme, com um ótimo design com carroseul de imagens seção de personagens interativa e dinâmica, contendo o trailer do filme e informações extras ultilizando HTML, SASS, Gulp e JavaScript e ultilização BEM (Block Element Modifier) metodologias para escrever CSS de forma organizada e escalável.</td>
     <td>
       <div>
