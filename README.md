@@ -1,5 +1,96 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Jo%C3%A3o+Pedro+In%C3%A1cio;Full+Stack+Developer;Automation+Specialist;Python+%7C+React+%7C+Next.js" alt="Typing SVG" />
+
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+
+</div>
+
+
+
+<div>
+
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/rectangle.png" width="1000" height="50"/>
+
+    <div align="center">
+
+        <img src="https://blog.bsource.com.br/assets/img/Tutorial.gif" width="200" height="200">
+
+        <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="200" height="200">
+
+        <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="200" height="200">
+
+        <img src="https://media.tenor.com/urnViL5vSGIAAAAj/construccion-live.gif" width="200" height="200">
+
+    </div>
+
+    <div align="center">
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/d-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/s-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/n-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/v-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/o-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/l-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/v-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/e-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/d-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/o-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/r-key.png"/>
+
+    </div>
+
+    <div align="center">
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/f-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/u-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/l-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/l-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/s-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/t-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/a-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/c-key.png"/>
+
+        <img src="https://img.icons8.com/ios-filled/30/ffffff/k-key.png"/>
+
+    </div>
+
+    <div align="center">
+
+      <img src="https://img.icons8.com/ios-filled/30/ffffff/left-angle-parentheses-key.png"/>
+
+      <img src="https://img.icons8.com/ios-filled/30/ffffff/solidus-key.png"/>
+
+      <img src="https://img.icons8.com/ios-filled/30/ffffff/right-angle-parentheses-key.png"/>
+
+    </div>
+
+ 
+
+<img src="https://img.icons8.com/ios-filled/50/0d1117/rectangle.png" width="1000" height="50"/>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Jo%C3%A3o+Pedro;Full+Stack+Developer;Automation+Specialist;Python+%7C+React+%7C+TypeScript" alt="Typing SVG" />
   
   <p>
     <a href="https://linkedin.com/in/joão-dev">
