@@ -40,15 +40,20 @@ Atualmente, atuo na **RedeFlex**, onde projeto e implemento soluções de **RPA 
 
 <div align="center">
 
-**Linguagens & Frameworks**<br/>
-<img src="https://skillicons.dev/icons?i=python,rust,ts,js,react,nextjs,fastapi,flask,nodejs" alt="Main Skills" /><br/>
+<b>Linguagens & Frameworks</b><br/>
+<img src="https://skillicons.dev/icons?i=python,rust,ts,js,react,nextjs,fastapi,flask,nodejs" alt="Linguagens" />
 
-**Automação & IA**<br/>
-<img src="https://skillicons.dev/icons?i=selenium,linux,bash,postman" alt="Automation Skills" />
-*(Experiência com YOLOv8/v11, ONNX Runtime, CUDA)*<br/>
+<br/><br/>
 
-**Infra & Bancos**<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,postgres,mysql,redis,mongodb" alt="DevOps Skills" />
+<b>Automação & IA</b><br/>
+<img src="https://skillicons.dev/icons?i=selenium,linux,bash,postman" alt="Automação" />
+<br/>
+<sub>Experiência com YOLOv8/v11, ONNX Runtime e CUDA</sub>
+
+<br/><br/>
+
+<b>Infra & Bancos</b><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,postgres,mysql,redis,mongodb" alt="Infraestrutura" />
 
 </div>
 
