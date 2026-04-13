@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=740&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=640&lines=Jo%C3%A3o+Pedro;Full+Stack+Developer;Automation+Specialist;Python+%7C+React+%7C+TypeScript;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=740&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=640&lines=João+Pedro;Full+Stack+Developer;RPA+%26+Automation+Expert;Rust+%7C+Python+%7C+React;" alt="Typing SVG" />
   
   <p>
     <a href="https://linkedin.com/in/joão-dev">
@@ -25,13 +25,14 @@
 
 ### 🚀 Sobre Mim
 
-Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções escaláveis e arquiteturas robustas. Atualmente, atuo como Analista de Automação na RedeFlex, onde otimizo processos críticos utilizando Python e Selenium.
+Sou **Desenvolvedor Full Stack Pleno** e **Especialista em Automação**, focado em transformar processos manuais em fluxos digitais eficientes e arquiteturas de alto desempenho. 
 
-Minha especialidade une interfaces modernas (**React, Next.js, TailwindCSS**) a back-ends performáticos (**FastAPI, Flask, Node.js**). Tenho forte viés para **DevOps** (Docker, CI/CD) e arquitetura de software (Clean Architecture, Event-Driven).
+Atualmente, atuo na **RedeFlex**, onde projeto e implemento soluções de **RPA (Robotic Process Automation)** utilizando **Python e Selenium**. Meu diferencial é unir a visão de análise de processos com a engenharia de software moderna, aplicando **Clean Architecture**, **Event-Driven** e uma forte cultura **DevOps** (Docker, CI/CD) em cada entrega.
 
-- 🔭 **Atualmente trabalhando em:** Automação de processos RPA e arquitetura de microsserviços.
+- 🔭 **Expertise Principal:** Engenharia de automação, microsserviços e sistemas em tempo real.
+- 🦀 **Foco Técnico:** Desenvolvimento de ferramentas de performance em **Rust** integradas a modelos de **IA**.
 - 🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas (UNIVAG).
-- ⚡ **Soft Skills:** Pensamento crítico, autonomia técnica e colaboração estratégica.
+- 📍 **Localização:** Cuiabá, Mato Grosso.
 
 ---
 
@@ -39,57 +40,36 @@ Minha especialidade une interfaces modernas (**React, Next.js, TailwindCSS**) a 
 
 <div align="center">
 
-**Front-end**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,vite" alt="Frontend Skills" /><br/>
+**Linguagens & Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=python,rust,ts,js,react,nextjs,fastapi,flask,nodejs" alt="Main Skills" /><br/>
 
-**Back-end**<br/>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,cs,lua,postgres,mysql,redis,mongodb" alt="Backend Skills" /><br/>
+**Automação & IA**<br/>
+<img src="https://skillicons.dev/icons?i=selenium,linux,bash,postman" alt="Automation Skills" />
+*(Experiência com YOLOv8/v11, ONNX Runtime, CUDA)*<br/>
 
-**DevOps & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,postman,selenium" alt="DevOps Skills" />
+**Infra & Bancos**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,postgres,mysql,redis,mongodb" alt="DevOps Skills" />
 
 </div>
 
 ---
 
-### 🏆 Projetos em Destaque
+### 🏆 Projetos de Engenharia
+
+#### 🦀 [Coach LoL (YOLO Rust Agent)](https://github.com/11joao44/LINK-DO-REPOSITORIO)
+*Arquitetura avançada de visão computacional para análise em tempo real.*
+- **Tecnologia:** Rust, YOLOv11 (ONNX Runtime), CUDA, OpenCV.
+- **Destaque:** Sistema capaz de processar 60+ FPS para detecção de ícones no minimapa, utilizando **Filtros de Kalman** para rastrear trajetórias e prever movimentos de adversários com mapeamento de coordenadas espaciais.
 
 #### 🧠 [Synth Flashcards](https://github.com/11joao44/LINK-DO-REPOSITORIO)
-
-_Ambiente de estudo inteligente com geração de resumos via IA._
-
-- **Stack:** Next.js, Tailwind v4, Flask (3-Layers Architecture), OpenAI SDK, NeonDB.
-- **Destaques:** Autenticação segura (JWT HttpOnly), Editor Markdown split-view, validação com Zod e Marshmallow.
-
-#### 🎮 [View Profile LOL](https://github.com/11joao44/LINK-DO-REPOSITORIO)
-
-_Visualizador elegante de perfis de League of Legends sem necessidade do cliente do jogo._
-
-- **Stack:** Next.js, TypeScript, Node.js (Fastify), Zod.
-- **Funcionalidades:** Histórico de partidas, cálculo de KDA, visualização de ligas e maestria em tempo real.
+*Plataforma de estudo inteligente com resumos automatizados via IA.*
+- **Stack:** Next.js (Tailwind v4), Flask (3-Layers Architecture), OpenAI SDK, NeonDB.
+- **Destaque:** Foco em produtividade acadêmica com autenticação segura JWT e editor Markdown otimizado.
 
 #### 📡 [WhatsApp Cloud & Discord Gateway](https://github.com/11joao44/LINK-DO-REPOSITORIO)
-
-_Ponte bidirecional Event-Driven entre WhatsApp API e Discord._
-
-- **Stack:** FastAPI (Async), Redis (Desduplicação/Cache), Docker, PostgreSQL.
-- **Impacto:** Sustenta 50k+ msgs/dia, reduziu tempo de resposta ao cliente em 80%.
-
----
-
-<details>
-<summary>📂 <b>Ver Projetos Legados (Início de Carreira)</b></summary>
-<br>
-
-> Estes projetos marcam o início da minha jornada e meus estudos em HTML, CSS e JS puro.
-
-| Projeto            | Descrição                         | Stack              |
-| :---------------- | :------------------------------- | :----------------- |
-| **Clone Disney+** | Clone da interface do streaming   | HTML, SASS, Gulp   |
-| **Tech Talks** | Landing page de evento com timer | HTML, SASS, Parcel |
-| **GameStore** | E-commerce simples                | HTML, Bootstrap    |
-
-</details>
+*Infraestrutura bidirecional para alta demanda de mensagens.*
+- **Stack:** FastAPI (Async), Redis (Cache), Docker, PostgreSQL.
+- **Impacto:** Processamento de 50k+ msgs/dia com redução de 80% no tempo de resposta através de arquitetura assíncrona.
 
 ---
 
