@@ -68,6 +68,7 @@ Atualmente, atuo na **RedeFlex**, onde projeto e implemento soluções de **RPA 
 
 #### 🧠 [Synth Flashcards](https://github.com/11joao44/LINK-DO-REPOSITORIO)
 *Plataforma de estudo inteligente com resumos automatizados via IA.*
+
 - **Stack:** Next.js (Tailwind v4), Flask (3-Layers Architecture), OpenAI SDK, NeonDB.
 - **Destaque:** Foco em produtividade acadêmica com autenticação segura JWT e editor Markdown otimizado.
 
@@ -81,8 +82,8 @@ Atualmente, atuo na **RedeFlex**, onde projeto e implemento soluções de **RPA 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=11joao44&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11joao44&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-navy-eta.vercel.app/api?username=11joao44&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-navy-eta.vercel.app/api/top-langs/?username=11joao44&layout=compact&theme=dracula"/>
 </div>
 
 <div align="center">
