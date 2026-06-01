@@ -1,0 +1,73 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" fill="none" role="img" aria-label="João Pedro — Full Stack and Software Engineer">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="52%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#1B2433"/>
+    </pattern>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="42"/>
+    </filter>
+    <clipPath id="round"><rect width="1200" height="300" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <!-- base -->
+    <rect width="1200" height="300" fill="#0B0E14"/>
+    <rect width="1200" height="300" fill="url(#dots)" opacity="0.55"/>
+
+    <!-- drifting ambient glows -->
+    <ellipse cx="985" cy="70" rx="270" ry="210" fill="url(#glow)" filter="url(#soft)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -42 34; 0 0" dur="9s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="170" cy="270" rx="230" ry="170" fill="url(#glow)" filter="url(#soft)" opacity="0.7">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 34 -22; 0 0" dur="12s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- oversized translucent code monogram -->
+    <text x="1148" y="232" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="230" font-weight="800" fill="#10151E" opacity="0.95">&lt;/&gt;</text>
+
+    <!-- automation pipeline: marching dashes between stations -->
+    <path d="M 70 248 C 250 248, 380 248, 540 248 S 860 248, 1030 248" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="2 11" opacity="0.95">
+      <animate attributeName="stroke-dashoffset" from="0" to="-52" dur="1.3s" repeatCount="indefinite"/>
+    </path>
+    <g fill="#0B0E14">
+      <circle cx="70" cy="248" r="6.5" stroke="#38BDF8" stroke-width="2"/>
+      <circle cx="550" cy="248" r="6.5" stroke="#818CF8" stroke-width="2"/>
+      <circle cx="1030" cy="248" r="6.5" stroke="#C084FC" stroke-width="2"/>
+    </g>
+    <circle cx="70" cy="248" r="2.5" fill="#38BDF8"/>
+    <circle cx="550" cy="248" r="2.5" fill="#818CF8"/>
+    <circle cx="1030" cy="248" r="2.5" fill="#C084FC"/>
+
+    <!-- terminal traffic lights -->
+    <g transform="translate(66,58)">
+      <circle cx="0" cy="0" r="6" fill="#FF5F56"/>
+      <circle cx="22" cy="0" r="6" fill="#FFBD2E"/>
+      <circle cx="44" cy="0" r="6" fill="#27C93F"/>
+    </g>
+
+    <!-- name -->
+    <text x="62" y="152" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="-2" fill="url(#brand)">João Pedro</text>
+
+    <!-- subtitle + blinking cursor -->
+    <text x="64" y="197" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#94A3B8">{ Full stack · Python · TypeScript · RPA }<tspan font-weight="700" fill="#38BDF8">&#160;|<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.45;0.5;0.95;1" dur="1.06s" repeatCount="indefinite"/></tspan></text>
+
+    <!-- tagline -->
+    <text x="64" y="225" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">sistemas de alta performance &amp; automação inteligente</text>
+  </g>
+
+  <!-- hairline border -->
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="22" fill="none" stroke="#1F2937" stroke-width="1"/>
+</svg>
