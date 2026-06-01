@@ -42,7 +42,7 @@ fn main() {
     let joao = Engineer {
         name:     "João Pedro",
         role:     "Full Stack & Automation Engineer",
-        company:  "RedeFlex",
+        company:  "Locks",
         location: "Cuiabá, Mato Grosso, BR",
         stack:    Stack::new(["Rust", "Python", "TypeScript"]),
         focus:    [
