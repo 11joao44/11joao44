@@ -130,8 +130,8 @@ Processamento de <b>50k+ mensagens/dia</b> com <b>−80%</b> no tempo de respost
 
 <!-- 🐍 cobrinha — requer o workflow .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/11joao44/11joao44/output/github-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/11joao44/11joao44/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/11joao44/11joao44/blob/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://github.com/11joao44/11joao44/blob/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
