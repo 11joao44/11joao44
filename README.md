@@ -1,26 +1,26 @@
 <!--
 ═══════════════════════════════════════════════════════════════════════════
-  README — João Pedro · github.com/11joao44
+  README — João Pedro Inácio Ferreira · github.com/11joao44
   ───────────────────────────────────────────────────────────────────────
   CHECKLIST DE SETUP (faça uma vez):
    1. Crie a pasta "assets/" DENTRO do repo de perfil (11joao44/11joao44)
       e suba assets/header.svg ali (não no repo "assets" separado).
-   2. Confira o link do LinkedIn abaixo — o atual tem caractere acentuado.
-   3. Projetos: quando publicar um repo, é só linkar o título do card.
-   4. (Opcional) Ative a cobrinha: crie .github/workflows/snake.yml
-      (conteúdo enviado junto na conversa).
-   5. Os cards de stats usam sua própria instância (…navy-eta) p/ evitar
-      rate limit. Mantenha assim ou troque pela pública se preferir.
+   2. LinkedIn: confirme o handle — se for "joao-dev" (sem acento), troque
+      a URL pela versão sem o %C3%A3.
+   3. Projetos: só lu-fastapi-backend é público (linkado). Os demais são
+      privados → cards sem link. Pra ativar links, torne-os públicos.
+   4. Cobrinha 🐍 → use SEMPRE URLs raw.githubusercontent.com (nunca /blob/).
+   5. Stats usam sua instância (…navy-eta) p/ evitar rate limit. Mantenha.
 ═══════════════════════════════════════════════════════════════════════════
 -->
 
-<!-- ░░ HERO ░░ banner animado custom. Se preferir zero-setup, troque a linha
-     abaixo por: <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:C084FC&height=200&text=João%20Pedro&fontColor=ffffff&fontSize=60&desc=Full%20Stack%20%26%20Automation%20Engineer&descSize=18&descAlignY=68" width="100%"/> -->
-<img src="./assets/header.svg" alt="João Pedro — Full Stack & Automation Engineer" width="100%" />
+<!-- ░░ HERO ░░ banner animado custom. Zero-setup alternativo:
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:C084FC&height=200&text=João%20Pedro&fontColor=ffffff&fontSize=60&desc=Full%20Stack%20%26%20AI-Augmented%20Engineer&descSize=18&descAlignY=68" width="100%"/> -->
+<img src="./assets/header.svg" alt="João Pedro — Full Stack & AI-Augmented Engineer" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=560&height=42&lines=Full+Stack+Engineer;RPA+%26+Automation+Specialist;Rust+%E2%80%A2+Python+%E2%80%A2+TypeScript;Clean+Architecture+%E2%80%A2+Event-Driven" alt="roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=600&height=42&lines=Full+Stack+Engineer+(Pleno);Automa%C3%A7%C3%A3o+%26+RPA;AI-Augmented+Development;Python+%E2%80%A2+TypeScript+%E2%80%A2+Rust+%E2%80%A2+C%23+%E2%80%A2+Lua" alt="roles" />
 
 &nbsp;
 
@@ -35,20 +35,20 @@
 
 ## 🧩 Sobre
 
-Desenvolvedor **full stack** e **especialista em automação**. Transformo processos manuais e planilhas caóticas em sistemas digitais rápidos, observáveis e escaláveis — unindo análise de processos com engenharia de software moderna (**Clean Architecture**, **Event-Driven**, cultura **DevOps**).
+Desenvolvedor **Full Stack Pleno** com foco em **modernização de sistemas legados**, **automação de processos** e **AI-Augmented Development**. Atualmente na **Locks**, construindo soluções escaláveis com **FastAPI · React 19 · TypeScript · Node.js** sobre arquitetura limpa. Pioneiro no uso de fluxos com **LLMs** — desenvolvimento, documentação, code review e geração de testes assistidos por IA — para entregar com alta qualidade em frações do tempo tradicional.
 
 ```rust
 fn main() {
     let joao = Engineer {
-        name:     "João Pedro",
-        role:     "Full Stack & Automation Engineer",
+        name:     "João Pedro Inácio Ferreira",
+        role:     "Full Stack Engineer (Pleno)",
         company:  "Locks",
         location: "Cuiabá, Mato Grosso, BR",
-        stack:    Stack::new(["Rust", "Python", "TypeScript"]),
+        stack:    Stack::new(["Python", "TypeScript", "Rust", "C#", "Lua"]),
         focus:    [
-            "RPA & Computer Vision",
-            "Sistemas em tempo real",
-            "Performance & Clean Architecture",
+            "Modernização de sistemas legados",
+            "Automação de processos (RPA)",
+            "AI-Augmented Development",
         ],
     };
 
@@ -62,17 +62,13 @@ fn main() {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LINGUAGENS-0B0E14?style=flat-square&labelColor=0B0E14" alt=""/> <img src="https://img.shields.io/badge/Rust-1A1F29?style=flat-square&logo=rust&logoColor=FF6B35"/> <img src="https://img.shields.io/badge/Python-1A1F29?style=flat-square&logo=python&logoColor=4B8BBE"/> <img src="https://img.shields.io/badge/TypeScript-1A1F29?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/JavaScript-1A1F29?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/LINGUAGENS-0B0E14?style=flat-square&labelColor=0B0E14" alt=""/> <img src="https://img.shields.io/badge/Python-1A1F29?style=flat-square&logo=python&logoColor=4B8BBE"/> <img src="https://img.shields.io/badge/TypeScript-1A1F29?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/JavaScript-1A1F29?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/C%23-1A1F29?style=flat-square&logo=csharp&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Lua-1A1F29?style=flat-square&logo=lua&logoColor=8B9DF2"/> <img src="https://img.shields.io/badge/Rust-1A1F29?style=flat-square&logo=rust&logoColor=FF6B35"/>
 
-<img src="https://img.shields.io/badge/FRONTEND-0B0E14?style=flat-square&labelColor=0B0E14" alt=""/> <img src="https://img.shields.io/badge/React-1A1F29?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-1A1F29?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Tailwind-1A1F29?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/FRAMEWORKS-0B0E14?style=flat-square&labelColor=0B0E14" alt=""/> <img src="https://img.shields.io/badge/FastAPI-1A1F29?style=flat-square&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/React_19-1A1F29?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-1A1F29?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Fastify-1A1F29?style=flat-square&logo=fastify&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Flask-1A1F29?style=flat-square&logo=flask&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Plasmo-1A1F29?style=flat-square&logo=plasmo&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Tailwind_v4-1A1F29?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
 
-<img src="https://img.shields.io/badge/BACKEND-0B0E14?style=flat-square&labelColor=0B0E14" alt=""/> <img src="https://img.shields.io/badge/FastAPI-1A1F29?style=flat-square&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/Flask-1A1F29?style=flat-square&logo=flask&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Node.js-1A1F29?style=flat-square&logo=nodedotjs&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/IA_E_AUTOMAÇÃO-0B0E14?style=flat-square&labelColor=0B0E14" alt=""/> <img src="https://img.shields.io/badge/Claude_Code-1A1F29?style=flat-square&logo=anthropic&logoColor=D97757"/> <img src="https://img.shields.io/badge/Antigravity_IDE-1A1F29?style=flat-square&logoColor=C084FC"/> <img src="https://img.shields.io/badge/OpenAI-1A1F29?style=flat-square&logo=openai&logoColor=74AA9C"/> <img src="https://img.shields.io/badge/Selenium-1A1F29?style=flat-square&logo=selenium&logoColor=43B02A"/> <img src="https://img.shields.io/badge/n8n-1A1F29?style=flat-square&logo=n8n&logoColor=EA4B71"/>
 
-<img src="https://img.shields.io/badge/AUTOMAÇÃO_E_IA-0B0E14?style=flat-square&labelColor=0B0E14" alt=""/> <img src="https://img.shields.io/badge/Selenium-1A1F29?style=flat-square&logo=selenium&logoColor=43B02A"/> <img src="https://img.shields.io/badge/OpenCV-1A1F29?style=flat-square&logo=opencv&logoColor=5C3EE8"/> <img src="https://img.shields.io/badge/ONNX-1A1F29?style=flat-square&logo=onnx&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/CUDA-1A1F29?style=flat-square&logo=nvidia&logoColor=76B900"/> <img src="https://img.shields.io/badge/YOLOv11-1A1F29?style=flat-square&logo=ultralytics&logoColor=A78BFA"/>
-
-<img src="https://img.shields.io/badge/DADOS-0B0E14?style=flat-square&labelColor=0B0E14" alt=""/> <img src="https://img.shields.io/badge/PostgreSQL-1A1F29?style=flat-square&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/Redis-1A1F29?style=flat-square&logo=redis&logoColor=FF4438"/> <img src="https://img.shields.io/badge/MongoDB-1A1F29?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/MySQL-1A1F29?style=flat-square&logo=mysql&logoColor=4479A1"/>
-
-<img src="https://img.shields.io/badge/DEVOPS-0B0E14?style=flat-square&labelColor=0B0E14" alt=""/> <img src="https://img.shields.io/badge/Docker-1A1F29?style=flat-square&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/GitHub_Actions-1A1F29?style=flat-square&logo=githubactions&logoColor=2088FF"/> <img src="https://img.shields.io/badge/Git-1A1F29?style=flat-square&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/Linux-1A1F29?style=flat-square&logo=linux&logoColor=FCC624"/> <img src="https://img.shields.io/badge/Postman-1A1F29?style=flat-square&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/INFRA_E_DEVOPS-0B0E14?style=flat-square&labelColor=0B0E14" alt=""/> <img src="https://img.shields.io/badge/Docker-1A1F29?style=flat-square&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/PostgreSQL-1A1F29?style=flat-square&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/MinIO-1A1F29?style=flat-square&logo=minio&logoColor=C72E49"/> <img src="https://img.shields.io/badge/Redis-1A1F29?style=flat-square&logo=redis&logoColor=FF4438"/> <img src="https://img.shields.io/badge/Coolify-1A1F29?style=flat-square&logo=coolify&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Git-1A1F29?style=flat-square&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/Linux-1A1F29?style=flat-square&logo=linux&logoColor=FCC624"/>
 
 </div>
 
@@ -80,40 +76,72 @@ fn main() {
 
 ## 🚀 Projetos em Destaque
 
-<!-- 💡 Quando publicar um repo, envolva o título em link, ex.:
-     <a href="https://github.com/11joao44/SEU-REPO"><h3>🦀 Coach LoL</h3></a> -->
+<!-- 💡 LINKS:
+     • lu-fastapi-backend é PÚBLICO → título já linkado.
+     • arcanum-plus / arcanum-plus-api / WhatsApp / Coach / Synth são PRIVADOS
+       → cards sem link (linkar repo privado dá 404 pra quem visita).
+       Pra ativar o link quando tornar público: envolva o <h3> num <a href=...>.
+     • Stack dos repos privados foi INFERIDA do currículo — ajuste os badges. -->
 <table>
 <tr>
 <td valign="top" width="50%">
 
-<h3>🦀 Coach LoL — YOLO Rust Agent</h3>
-<i>Visão computacional em tempo real</i><br/><br/>
-Detecção de ícones no minimapa a <b>60+ FPS</b>, com <b>filtros de Kalman</b> para rastrear trajetórias e prever movimentos dos adversários.<br/><br/>
-<img src="https://img.shields.io/badge/Rust-1A1F29?style=flat-square&logo=rust&logoColor=FF6B35"/> <img src="https://img.shields.io/badge/YOLOv11-1A1F29?style=flat-square&logo=ultralytics&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/ONNX-1A1F29?style=flat-square&logo=onnx&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/CUDA-1A1F29?style=flat-square&logo=nvidia&logoColor=76B900"/> <img src="https://img.shields.io/badge/OpenCV-1A1F29?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
+<h3>🧱 Arcanum API</h3>
+<i>API de referência · meu boilerplate base</i><br/><br/>
+Minha API base que reuso em novos projetos: arquitetura em camadas (routes → services → repositories), <b>event-driven</b>, PostgreSQL assíncrono, cache Redis e deploy dockerizado com Traefik + TLS.<br/><br/>
+<img src="https://img.shields.io/badge/FastAPI-1A1F29?style=flat-square&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/Pydantic-1A1F29?style=flat-square&logo=pydantic&logoColor=E92063"/> <img src="https://img.shields.io/badge/SQLModel-1A1F29?style=flat-square&logo=sqlmodel&logoColor=7E56C2"/> <img src="https://img.shields.io/badge/PostgreSQL-1A1F29?style=flat-square&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/Redis-1A1F29?style=flat-square&logo=redis&logoColor=FF4438"/> <img src="https://img.shields.io/badge/Docker-1A1F29?style=flat-square&logo=docker&logoColor=2496ED"/>
+
+</td>
+<td valign="top" width="50%">
+
+<h3><a href="https://github.com/11joao44/lu-fastapi-backend">🐍 Lu FastAPI Backend</a></h3>
+<i>API REST em camadas · Lu Estilo (challenge)</i><br/><br/>
+API que automatiza o fluxo do time comercial. Arquitetura <b>Routers → Services → Repositories</b>, autenticação <b>JWT</b>, migrações com Alembic e pronta pra integração com WhatsApp.<br/><br/>
+<img src="https://img.shields.io/badge/FastAPI-1A1F29?style=flat-square&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/SQLAlchemy-1A1F29?style=flat-square&logo=sqlalchemy&logoColor=D71F00"/> <img src="https://img.shields.io/badge/PostgreSQL-1A1F29?style=flat-square&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/JWT-1A1F29?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Poetry-1A1F29?style=flat-square&logo=poetry&logoColor=60A5FA"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<h3>🎨 Arcanum Plus</h3>
+<i>Setup moderno de frontend · meu starter base</i><br/><br/>
+Boilerplate "bleeding edge" que uso como base para novas interfaces: TypeScript estrito, tooling em <b>Rust</b> (Tailwind v4 + Biome), Zustand + TanStack Query e qualidade automática no commit (Husky + lint-staged).<br/><br/>
+<img src="https://img.shields.io/badge/React_19-1A1F29?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-1A1F29?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Vite-1A1F29?style=flat-square&logo=vite&logoColor=646CFF"/> <img src="https://img.shields.io/badge/Tailwind_v4-1A1F29?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Biome-1A1F29?style=flat-square&logo=biome&logoColor=60A5FA"/>
+
+</td>
+<td valign="top" width="50%">
+
+<h3>📡 WhatsApp Cloud Gateway</h3>
+<i>Mensageria de alta demanda · API oficial da Meta</i><br/><br/>
+Integração com a <b>WhatsApp Cloud API (Meta)</b> em arquitetura <b>assíncrona</b>, processando <b>50k+ msgs/dia</b> com <b>−80%</b> no tempo de resposta.<br/><br/>
+<img src="https://img.shields.io/badge/WhatsApp_Cloud_API-1A1F29?style=flat-square&logo=whatsapp&logoColor=25D366"/> <img src="https://img.shields.io/badge/FastAPI-1A1F29?style=flat-square&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/Redis-1A1F29?style=flat-square&logo=redis&logoColor=FF4438"/> <img src="https://img.shields.io/badge/PostgreSQL-1A1F29?style=flat-square&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/Docker-1A1F29?style=flat-square&logo=docker&logoColor=2496ED"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<h3>⚡ Coach LoL</h3>
+<i>High-performance tool · overlay em tempo real</i><br/><br/>
+Overlay de <b>baixíssima latência</b> para League of Legends, com análise de dados e assistência in-game consumindo a <b>Riot Live Client API</b>.<br/><br/>
+<img src="https://img.shields.io/badge/Rust-1A1F29?style=flat-square&logo=rust&logoColor=FF6B35"/> <img src="https://img.shields.io/badge/Riot_Games_API-1A1F29?style=flat-square&logo=riotgames&logoColor=D32936"/> <img src="https://img.shields.io/badge/AI--Assisted-1A1F29?style=flat-square&logo=anthropic&logoColor=D97757"/>
 
 </td>
 <td valign="top" width="50%">
 
 <h3>🧠 Synth Flashcards</h3>
-<i>Estudo inteligente com resumos via IA</i><br/><br/>
-Plataforma de produtividade acadêmica com autenticação <b>JWT</b> segura e editor Markdown otimizado.<br/><br/>
-<img src="https://img.shields.io/badge/Next.js-1A1F29?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Flask-1A1F29?style=flat-square&logo=flask&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/OpenAI-1A1F29?style=flat-square&logo=openai&logoColor=10A37F"/> <img src="https://img.shields.io/badge/NeonDB-1A1F29?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-
-</td>
-</tr>
-<tr>
-<td valign="top" colspan="2">
-
-<h3>📡 WhatsApp ⇄ Discord Gateway</h3>
-<i>Infra bidirecional assíncrona para alta demanda de mensagens</i><br/><br/>
-Processamento de <b>50k+ mensagens/dia</b> com <b>−80%</b> no tempo de resposta, através de uma arquitetura totalmente assíncrona.<br/><br/>
-<img src="https://img.shields.io/badge/FastAPI-1A1F29?style=flat-square&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/Redis-1A1F29?style=flat-square&logo=redis&logoColor=FF4438"/> <img src="https://img.shields.io/badge/PostgreSQL-1A1F29?style=flat-square&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/Docker-1A1F29?style=flat-square&logo=docker&logoColor=2496ED"/>
+<i>AI-powered · plataforma de estudos</i><br/><br/>
+Geração automática de resumos e flashcards via IA, com back-end em arquitetura <b>3-layers</b> e integração com a <b>OpenAI SDK</b>.<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-1A1F29?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Flask-1A1F29?style=flat-square&logo=flask&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/OpenAI-1A1F29?style=flat-square&logo=openai&logoColor=74AA9C"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+<sub>➕ <b>SSW Extension</b> (Plasmo · React/TS) — extensão que moderniza um sistema logístico legado, automatizando rastreamento de carga, solicitações de CT-e e integração com Google Maps.</sub>
+
+<br/><br/>
 
 ## 📊 Métricas
 
@@ -130,8 +158,8 @@ Processamento de <b>50k+ mensagens/dia</b> com <b>−80%</b> no tempo de respost
 
 <!-- 🐍 cobrinha — requer o workflow .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/11joao44/11joao44/blob/output/github-snake-dark.svg" />
-  <img alt="snake animation" src="https://github.com/11joao44/11joao44/blob/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/11joao44/11joao44/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/11joao44/11joao44/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
@@ -142,7 +170,7 @@ Processamento de <b>50k+ mensagens/dia</b> com <b>−80%</b> no tempo de respost
 
 <div align="center">
 
-Aberto a freelas, colaborações e ideias que envolvam **automação, performance e sistemas inteligentes**.
+Aberto a freelas, colaborações e ideias que envolvam **modernização de sistemas, automação e desenvolvimento com IA**.
 
 <a href="mailto:11joao44@gmail.com"><img src="https://img.shields.io/badge/Bora_conversar-38BDF8?style=for-the-badge&logo=gmail&logoColor=0B0E14"/></a>
 
